@@ -1,0 +1,16 @@
+﻿
+{"Name":"Bill",
+ "Gender":18,
+ "Level":1,
+ "skillList":[
+ {"id":1,"name":"lula","damage":145},
+ {"id":2,"name":"fuo","damage":230},
+ {"id":3,"name":"ld","damage":523}
+ 
+ ]
+
+}
+
+
+
+
